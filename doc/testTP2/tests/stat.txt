@@ -1,0 +1,13 @@
+Nombre de réclamations traitées : 22
+Nombre de demandes rejetées : 7
+
+Nombre de soin 0   : 0
+Nombre de soin 100 : 3
+Nombre de soin 150 : 2
+Nombre de soin 175 : 4
+Nombre de soin 200 : 5
+Nombre de soin [300..399] : 2
+Nombre de soin 400 : 1
+Nombre de soin 500 : 4
+Nombre de soin 600 : 1
+Nombre de soin 700 : 0
